@@ -17,7 +17,6 @@ Before using this script, you should have:
 - Python installed on your machine.
 - Access to a Google Cloud Project with the Google Sheets API enabled.
 - A service account created within the Google Cloud Project, with a downloaded JSON credentials file.
-- The necessary Python libraries installed, which can be done via `pip install -r requirements.txt`.
 
 ## Setup
 
