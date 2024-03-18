@@ -28,7 +28,7 @@ Before using this script, you should have:
 ### Dependencies
 Install the required dependencies by running:
 
-```sh
+```
 pip install playwright gspread google-auth beautifulsoup4 PyYAML ssl smtplib email
 ```
 
