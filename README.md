@@ -44,7 +44,7 @@ The email configuration is stored in email.yaml. This file should include the se
 ## Running the Script
 This script is executed with:
 
-'''sh
+'''
 python kyoto_machiya_update.py
 '''
 
