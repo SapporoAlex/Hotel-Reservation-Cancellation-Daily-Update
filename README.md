@@ -1,5 +1,5 @@
 # Hotel Reservation Update Automation Script
-I wrote this script for the Real Estate company Value-Build. It automates the daily task of retrieving reservation and cancellation information and reporting it to other staff. Feel free to adapt this to script to suit your needs.
+I wrote this script for the real estate company Value-Build Ltd. It automates the daily task of retrieving reservation and cancellation information and reporting it to other staff. Feel free to adapt this to script to suit your needs.
 This Python script automates the process of fetching and compiling reservation and cancellation data for hotels, and then sending a daily update email. It utilizes Google Sheets for configuration and data storage, web scraping for data extraction, and email for communication.
 
 ![Preview](Preview.jpeg)
